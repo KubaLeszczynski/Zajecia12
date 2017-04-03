@@ -6,8 +6,8 @@ public class Main {
 
         public int divide(int a,int b){
             if(b==0) throw new ArithmeticException("Nie dziel przez 0");
-            return a /b ;
-            
+            return a / b ;
+            // ciap ciap test
         }
     }
 }
